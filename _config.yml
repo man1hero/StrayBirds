@@ -65,7 +65,7 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
+    name: man1hero
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
@@ -115,12 +115,12 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: man1hero
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: 天涯
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
